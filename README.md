@@ -1,6 +1,6 @@
 # SCMS
 
-1. ER다이어그램
+## 1. ER다이어그램
 
 ![1  ER다이어그램](https://user-images.githubusercontent.com/56018219/147821976-fda1c6e9-5894-4d03-87d8-1ecfae3484e1.jpg)
 2. SCMS 홈페이지
